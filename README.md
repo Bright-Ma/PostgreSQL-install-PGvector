@@ -3,7 +3,7 @@
 ## 插件运行文件 文件夹：1
 核心作用：提供向量类型、索引、相似度计算的核心实现
 
-拷贝目标路径：
+拷贝目标路径（以下为我的PostgreSQL安装路径）：
 ``` shell
 F:\PostgreSQL_18\lib\
 ```
@@ -11,7 +11,7 @@ F:\PostgreSQL_18\lib\
 核心作用：插件安装、版本升级的脚本依赖，PostgreSQL 识别插件的关键
 
 拷贝目标路径：
-```
+``` shell
 F:\PostgreSQL_18\share\extension
 ```
 
